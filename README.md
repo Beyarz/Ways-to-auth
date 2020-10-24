@@ -22,7 +22,7 @@ This list can be sorted later on.
 - U2F
 - Tokens (hardware / software)
 - MFA - SMS, Microsoft authenticator, Google authenticator, Authy
-- FaceID, TouchID
+- Biometric - FaceID, TouchID, Windows Hello
 - One time link login (email)
 - Password reset authentication (link, security questions, activity-related questions/proof i.e. transactions or such)
 
