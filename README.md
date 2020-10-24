@@ -5,7 +5,7 @@ Aggregated list of different ways to authenticate
 
 This list can be sorted later on.
 
-- Basic auth
+- Basic auth (email, username & password)
 - OAuth 1
 - OAuth 1.1a
 - OAuth2
@@ -17,9 +17,6 @@ This list can be sorted later on.
 - SSH & PGP
 - Using your other device as confirmation by sending a key to that device and require you to input the delivered key (signing in to iCloud for example)
 - Relying on platforms such as Github, Google, Facebook to perform the authentication (OAuth or similar)
-- Using your phone as two-step-verification via sms  
-- Using your phone as two-step-verification via apps like Google / Microsoft authenticator
-- Email / username & password
 - Hardwares like Yubikey
 - BankID and similar standards
 - U2F
