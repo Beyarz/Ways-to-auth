@@ -1,6 +1,18 @@
 # Ways-to-auth
 Aggregated list of different ways to authenticate
 
+## Unsorted
+
+This list can be sorted later on.
+
+- Basic auth
+- OAuth 1
+- OAuth 1.1a
+- OAuth2
+- OpenID Connect
+- SAML
+- SAML 2.0
+
 ## Primary
 
 ### Basic Auth
