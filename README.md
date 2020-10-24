@@ -5,7 +5,7 @@ Aggregated list of different ways to authenticate
 
 ### Basic Auth
 
-Description.
+Using the classical username & password.
 
 Activity diagram.
 
@@ -13,6 +13,18 @@ Activity diagram.
 
 ## Secondary / MFA
 
+- Sms
+- Microsoft authenticator
+- Google authenticator
+- Authy
+
 ### OTP
 
+###### Software tokens
+
+###### Hardware tokens
+
 ### U2F
+
+### Tokens
+
