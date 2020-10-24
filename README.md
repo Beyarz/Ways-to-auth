@@ -23,6 +23,8 @@ This list can be sorted later on.
 - Tokens (hardware / software)
 - MFA - SMS, Microsoft authenticator, Google authenticator, Authy
 - FaceID, TouchID
+- One time link login (email)
+- Password reset authentication (link, security questions, activity-related questions/proof i.e. transactions or such)
 
 
 ---
