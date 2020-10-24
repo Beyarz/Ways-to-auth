@@ -13,6 +13,21 @@ This list can be sorted later on.
 - SAML
 - SAML 2.0
 
+---
+
+## Type
+
+### Category
+
+#### Method (way to authenticate)
+
+- Description
+- Activity diagram
+
+##### Potential variant
+
+---
+
 ## Primary
 
 ### Basic Auth
