@@ -15,6 +15,9 @@ This list can be sorted later on.
 
 ---
 
+#### General structure
+
+```markdown
 ## Type
 
 ### Category
@@ -25,6 +28,7 @@ This list can be sorted later on.
 - Activity diagram
 
 ##### Potential variant
+```
 
 ---
 
