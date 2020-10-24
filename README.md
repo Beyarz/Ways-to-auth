@@ -22,6 +22,10 @@ This list can be sorted later on.
 - Email / username & password
 - Hardwares like Yubikey
 - BankID and similar standards
+- U2F
+- Tokens (hardware / software)
+- MFA - SMS, Microsoft authenticator, Google authenticator, Authy
+
 
 ---
 
@@ -42,36 +46,4 @@ This list can be sorted later on.
 
 ---
 
-**NOTE**: Anything below this line is work-in-progress
-
-## Primary
-
-### Basic Auth
-
-Using the classical username & password.
-
-Activity diagram.
-
-### OAuth2
-
-## Secondary / MFA
-
-- Sms
-- Microsoft authenticator
-- Google authenticator
-- Authy
-
-### OTP
-
-- HOTP
-- TOTP
-- OTP (SMS)
-
-###### Software tokens
-
-###### Hardware tokens
-
-### U2F
-
-### Tokens
-
+**NOTE**: Anything below this line should be considered "categorized".
