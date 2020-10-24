@@ -20,6 +20,10 @@ Activity diagram.
 
 ### OTP
 
+- HOTP
+- TOTP
+- OTP (SMS)
+
 ###### Software tokens
 
 ###### Hardware tokens
