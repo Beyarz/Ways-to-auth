@@ -1,18 +1,4 @@
 # Ways-to-auth
 Aggregated list of different ways to authenticate
 
-## Primary
-
-### Basic Auth
-
-Description.
-
-Activity diagram.
-
-### OAuth2
-
-## Secondary / MFA
-
-### OTP
-
-### U2F
+A draft is being worked on [here](https://github.com/Beyarz/Ways-to-auth/tree/draft)
