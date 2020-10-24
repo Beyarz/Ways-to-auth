@@ -21,6 +21,7 @@ This list can be sorted later on.
 - Using your phone as two-step-verification via apps like Google / Microsoft authenticator
 - Email / username & password
 - Hardwares like Yubikey
+- BankID and similar standards
 
 ---
 
