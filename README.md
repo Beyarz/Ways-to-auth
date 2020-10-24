@@ -25,6 +25,7 @@ This list can be sorted later on.
 - U2F
 - Tokens (hardware / software)
 - MFA - SMS, Microsoft authenticator, Google authenticator, Authy
+- FaceID, TouchID
 
 
 ---
