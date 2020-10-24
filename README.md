@@ -41,6 +41,8 @@ This list can be sorted later on.
 
 ---
 
+**NOTE**: Anything below this line is work-in-progress
+
 ## Primary
 
 ### Basic Auth
