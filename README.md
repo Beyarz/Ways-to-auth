@@ -19,12 +19,13 @@ This list can be sorted later on.
 - Relying on platforms such as Github, Google, Facebook to perform the authentication (OAuth or similar)
 - Hardwares like Yubikey
 - BankID and similar standards
-- U2F
-- Tokens (hardware / software)
+- U2F (Universal 2nd Factor)
+- Tokens (Hardware / software)
 - MFA - SMS, Microsoft authenticator, Google authenticator, Authy
 - Biometric - FaceID, TouchID, Windows Hello
 - One time link login (email)
 - Password reset authentication (link, security questions, activity-related questions/proof i.e. transactions or such)
+- Passphrase
 
 
 ---
