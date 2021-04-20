@@ -26,6 +26,7 @@ This list can be sorted later on.
 - One time link login (email)
 - Password reset authentication (link, security questions, activity-related questions/proof i.e. transactions or such)
 - Passphrase
+- SSO (Single-sign on)
 
 
 ---
