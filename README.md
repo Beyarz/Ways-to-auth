@@ -12,7 +12,7 @@ This list can be sorted later on.
 - OpenID Connect
 - SAML
 - SAML 2.0
-- Sign in via email by receiving a sentence and type it down (Vercel does this)
+- Magic links
 - Using a token as your identity
 - SSH & PGP
 - Using your other device as confirmation by sending a key to that device and require you to input the delivered key (signing in to iCloud for example)
